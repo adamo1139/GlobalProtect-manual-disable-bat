@@ -1,0 +1,1 @@
+# GlobalProtect-manual-disable-bat
